@@ -1,7 +1,4 @@
-<<<<<<< HEAD
+
 Third file
- 
-change
-=======
 Third file changing
->>>>>>> s-branch
+
